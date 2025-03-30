@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Assets/GJ_Screen_Fail.png
+Content/__ExternalActors__/Scenes/MainScene/4/LP/VBTYEUHAZG20WV33EZLV40.uasset
+Content/Assets/GJ_Screen_Win.png
+Content/Scripts/Bine.uasset
+Content/Assets/quit_button.png
+Content/AdvancedTurnBasedTileToolkit/materials/Master/bubble_gris.uasset
+Content/__ExternalActors__/Scenes/MainScene/3/S1/V0MBHJQ6KK19XS1O4LQMAI.uasset
